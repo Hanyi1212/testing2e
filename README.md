@@ -14,7 +14,7 @@
 
 <h1>English</h1>
 <h2>The website will be developed starting in 2026</h2>
-<p>Development of this website is scheduled to begin in 2026. Thank you for your patience and support.。</p>
+<p>Development of this website is scheduled to begin in 2026. Thank you for your patience and support.</p>
 
 </body>
 </html>
